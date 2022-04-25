@@ -6,9 +6,7 @@ Estou fazendo um curso da Dio. com o professor Otávio e aqui vou adicionar um r
 
 # Desafio de Projeto sobre Git/Github
 
-* Desafio DIO para o bootcamp da Conizant Java Developer
-
-# Links importantes!
+## Links importantes!
 
 * [Sintaxe básica de markdown](https://www.markdownguide.org/basic-syntax/)
 
